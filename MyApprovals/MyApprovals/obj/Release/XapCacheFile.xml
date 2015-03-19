@@ -1,0 +1,38 @@
+﻿<xapCache source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Bin\Release\MyApprovals_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/6/2014 10:21:20 AM">
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\obj\Release\MyApprovals.dll" archivePath="MyApprovals.dll" lastWriteTime="8/6/2014 10:21:18 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\tile_back_bg.png" archivePath="Images\tile_back_bg.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\details.png" archivePath="Images\details.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\logout.png" archivePath="Images\logout.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\more.png" archivePath="Images\more.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\reload.png" archivePath="Images\reload.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\save.png" archivePath="Images\save.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Images\tile_back_reset_bg.png" archivePath="Images\tile_back_reset_bg.png" lastWriteTime="7/3/2014 12:06:47 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/10/2014 11:42:41 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/3/2014 12:06:45 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll" archivePath="Coding4Fun.Toolkit.Controls.dll" lastWriteTime="7/3/2014 12:06:48 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="1/1/2013 6:57:00 PM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="7/3/2014 12:06:53 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="7/3/2014 12:06:52 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\RestSharp.104.4.0\lib\sl4-wp71\RestSharp.WindowsPhone.dll" archivePath="RestSharp.WindowsPhone.dll" lastWriteTime="7/3/2014 12:06:52 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="7/3/2014 12:06:52 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\RestSharp.104.4.0\lib\sl4-wp71\RestSharp.WindowsPhone.xml" archivePath="RestSharp.WindowsPhone.xml" lastWriteTime="7/3/2014 12:06:52 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="7/3/2014 12:06:51 AM" />
+  <file source="C:\Data\Coding\WP\MyApprovals\Source\MyApprovals\MyApprovals\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/10/2014 11:42:43 AM" />
+</xapCache>
